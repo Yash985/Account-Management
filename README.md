@@ -1,30 +1,30 @@
 # Account-Mangement
 
--This app lets you create account
--Login into your existing account
--edit yout account informantion
+- This app lets you create account
+- Login into your existing account
+- edit yout account informantion
 
 # Local Development
 
--Clone Repository
+- Clone Repository
 
 ```
 git clone
 ```
 
--cd to project_directory
+- cd to project_directory
 
 ```
 cd myProject
 ```
 
--Install Dependencies
+- Install Dependencies
 
 ```
 npm install
 ```
 
--Run app locally
+- Run app locally
 
 ```
 npm run dev
